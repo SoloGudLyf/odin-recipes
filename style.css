@@ -13,3 +13,24 @@ li {
   padding-bottom: 10px;
   font-size: 18px;
 }
+
+.home {
+  font-size: 20px;
+  display: block;
+  margin: 10px 0;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+}
+
+figcaption {
+  display: block;
+  margin-left: auto;
+}
+
+p{
+    line-height: 20px;
+    font-size: 18px;
+}
